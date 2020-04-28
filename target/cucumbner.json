@@ -1,0 +1,261 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3497901880,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.driverSetUp()"
+            }
+          }
+        ],
+        "line": 69,
+        "name": "To check the Functionality of DesignerSearchField",
+        "description": "",
+        "id": "accessories;to-check-the-functionality-of-designersearchfield;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 128726970,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3655066205,
+              "status": "passed"
+            },
+            "line": 63,
+            "name": "User On Accessories Page",
+            "match": {
+              "location": "StepDefinitionForAccessories.user_On_Accessories_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4469478517,
+              "status": "passed"
+            },
+            "line": 64,
+            "name": "User Search for Brands using SearchBar \"Alexander McQUEEN\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Alexander McQUEEN",
+                  "offset": 40
+                }
+              ],
+              "location": "StepDefinitionForAccessories.user_Search_for_Brands_using_SearchBar(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 533741499,
+              "status": "passed"
+            },
+            "line": 65,
+            "name": "User should be able to search the brands in Search-field",
+            "match": {
+              "location": "StepDefinitionForAccessories.user_should_be_able_to_search_the_brands_in_Search_field()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 61,
+            "name": "@DesignerSearch"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2569605175,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.driverSetUp()"
+            }
+          }
+        ],
+        "line": 70,
+        "name": "To check the Functionality of DesignerSearchField",
+        "description": "",
+        "id": "accessories;to-check-the-functionality-of-designersearchfield;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 119222556,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2681276838,
+              "status": "passed"
+            },
+            "line": 63,
+            "name": "User On Accessories Page",
+            "match": {
+              "location": "StepDefinitionForAccessories.user_On_Accessories_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3844442244,
+              "status": "passed"
+            },
+            "line": 64,
+            "name": "User Search for Brands using SearchBar \"Gucci\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Gucci",
+                  "offset": 40
+                }
+              ],
+              "location": "StepDefinitionForAccessories.user_Search_for_Brands_using_SearchBar(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 658043120,
+              "status": "passed"
+            },
+            "line": 65,
+            "name": "User should be able to search the brands in Search-field",
+            "match": {
+              "location": "StepDefinitionForAccessories.user_should_be_able_to_search_the_brands_in_Search_field()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 61,
+            "name": "@DesignerSearch"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2831287461,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.driverSetUp()"
+            }
+          }
+        ],
+        "line": 71,
+        "name": "To check the Functionality of DesignerSearchField",
+        "description": "",
+        "id": "accessories;to-check-the-functionality-of-designersearchfield;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 118523781,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2149172645,
+              "status": "passed"
+            },
+            "line": 63,
+            "name": "User On Accessories Page",
+            "match": {
+              "location": "StepDefinitionForAccessories.user_On_Accessories_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2195746604,
+              "status": "passed"
+            },
+            "line": 64,
+            "name": "User Search for Brands using SearchBar \"xxxxxxx\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "xxxxxxx",
+                  "offset": 40
+                }
+              ],
+              "location": "StepDefinitionForAccessories.user_Search_for_Brands_using_SearchBar(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 429260194,
+              "status": "passed"
+            },
+            "line": 65,
+            "name": "User should be able to search the brands in Search-field",
+            "match": {
+              "location": "StepDefinitionForAccessories.user_should_be_able_to_search_the_brands_in_Search_field()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 61,
+            "name": "@DesignerSearch"
+          }
+        ]
+      }
+    ],
+    "name": "Accessories",
+    "description": "",
+    "id": "accessories",
+    "keyword": "Feature",
+    "uri": "src/test/resources/Accessories.feature"
+  }
+]
